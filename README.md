@@ -1,6 +1,5 @@
 Star Wars RPG Game
-The UCLA Coding Bootcamp
-jQuery Assignment - Star Wars RPG Game
+Star Wars RPG Game
 
 Overview
 
